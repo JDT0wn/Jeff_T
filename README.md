@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jeff! <a href="https://www.linkedin.com/in/jd-townsend/">Cybersecurity Newbie</a> </h1>
+<h1>Hi, I'm Jeff! <br><a href="https://www.linkedin.com/in/jd-townsend/">Cybersecurity Newbie</a> </h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
