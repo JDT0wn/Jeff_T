@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jeff! <br><a href="https://www.linkedin.com/in/jd-townsend/">Cybersecurity Newbie</a> </h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux File Permissions</b>
   - [Changing File Permissions](https://github.com/JDT0wn/Linux-chgperm)
