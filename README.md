@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Linux File Permissions</b>
+  - [Changing File Permissions](https://github.com/JDT0wn/Linux-chgperm)
 
 - <b>PowerShell</b>
   
