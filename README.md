@@ -16,7 +16,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Linux File Permissions lab        | <a href="https://google.com">Detection Lab</a>|
-| SQL Database Query| <a href="https://google.com">Detection Lab</a>|
+| SQL Database Query| <a href="https://github.com/JDT0wn/SQL-Queries/tree/main">SQL Query</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
