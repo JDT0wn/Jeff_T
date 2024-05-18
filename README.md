@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am currently looking to transition from field work to the world of IT with a focus in cybersecurity. 
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
