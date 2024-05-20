@@ -10,7 +10,6 @@ Hi my name is Jeffery Townsend and I am currently working towards transitioning 
 My journey into computer technology has led me to develop a passion for networking and cybersecurity, and I am now eager to transition into this field, specifically looking to become a Security Analyst!
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -20,7 +19,6 @@ My journey into computer technology has led me to develop a passion for networki
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Linux
 <div>
