@@ -2,11 +2,12 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am currently looking to transition from field work to the world of IT with a focus in cybersecurity. 
+Hi my name is Jefferu Townsend and I am currently working towards transitioning into the IT field with the goal of becoming a cybersecurity professional. I have been around computers my entire life and I love to tinker with new technology as it comes along so i figured that I should get into the Industry so that i can feel like im getting paid to do the things that I have loved doing since I was a child.
+
 
 ## Objective
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey into computer technology has led me to develop a passion for networking and cybersecurity, and I am now eager to transition into this field, specifically looking to become a Security Analyst!
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
@@ -16,9 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Linux File Permissions lab        | <a href="https://google.com">Detection Lab</a>|
 | SQL Database Query| <a href="https://github.com/JDT0wn/SQL-Queries/tree/main">SQL Query</a>|
 | Active Directory Basics        | <a href= "https://github.com/JDT0wn/ActDir">AD Basics</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
