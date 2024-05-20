@@ -13,7 +13,7 @@ My journey into computer technology has led me to develop a passion for networki
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux File Permissions lab        | <a href="https://google.com">Detection Lab</a>|
+| Linux File Permissions lab        | <a href="https://github.com/JDT0wn/Linux-chgperm">Change Permisisons</a>|
 | SQL Database Query| <a href="https://github.com/JDT0wn/SQL-Queries/tree/main">SQL Query</a>|
 | Active Directory Basics        | <a href= "https://github.com/JDT0wn/ActDir">AD Basics</a>|
 
