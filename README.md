@@ -20,7 +20,6 @@ My journey into computer technology has led me to develop a passion for networki
 
 ## Tools
 
-### Linux
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -28,6 +27,7 @@ My journey into computer technology has led me to develop a passion for networki
     <img src="https://img.shields.io/badge/-Active%20Directory-3776AB?&style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-3776AB?&style=for-the-badge&logo=tenable&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 </div>
 
 ## Certifications
