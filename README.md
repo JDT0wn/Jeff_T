@@ -34,6 +34,8 @@ My journey into computer technology has led me to develop a passion for networki
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
   <img src="https://img.shields.io/badge/-Google%20Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+      <img src="https://img.shields.io/badge/-CompTIA%20Network%2B-EA3B2F?style=for-the-badge&logo=comptia&logoColor=white" />
+
 
 </div>
 
