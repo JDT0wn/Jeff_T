@@ -17,6 +17,7 @@ My journey into computer technology has led me to develop a passion for networki
 | SQL Database Query| <a href="https://github.com/JDT0wn/SQL-Queries/tree/main">SQL Query</a>|
 | Virtual AD Creation        | <a href= "https://github.com/">Virtual AD creation</a>|
 | Active Directory Basics        | <a href= "https://github.com/JDT0wn/ActDir">AD Basics</a>|
+| Network Creation (packet tracer)       | <a href= "https://github.com/JDT0wn/ActDir">Network Project</a>|
 
 
 
