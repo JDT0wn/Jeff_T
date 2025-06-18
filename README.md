@@ -15,9 +15,9 @@ My journey into computer technology has led me to develop a passion for networki
 |-----------------------------------------------|----------------------------|
 | Linux File Permissions lab        | <a href="https://github.com/JDT0wn/Linux-chgperm">Change Permisisons</a>|
 | SQL Database Query| <a href="https://github.com/JDT0wn/SQL-Queries/tree/main">SQL Query</a>|
-| Virtual AD Creation        | <a href= "https://github.com/">Virtual AD creation</a>|
+| Virtual AD Creation Vid        | <a href= "https://github.com/">Virtual AD creation</a>|
 | Active Directory Basics        | <a href= "https://github.com/JDT0wn/ActDir">AD Basics</a>|
-| Network Creation (packet tracer)       | <a href= "https://github.com/JDT0wn/ActDir">Network Project</a>|
+| Vlan Configuration Vid(packet tracer)       | <a href= "https://github.com/JDT0wn/ActDir">Network Project</a>|
 
 
 
