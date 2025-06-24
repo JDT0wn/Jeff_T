@@ -19,6 +19,10 @@ My journey into computer technology has led me to develop a passion for networki
 | Active Directory Basics  (text)      | <a href= "https://github.com/JDT0wn/ActDir">AD Basics</a>|
 | Vlan Configuration Vid(packet tracer)       | <a href= "https://github.com/JDT0wn/ActDir">Network Project</a>|
 | SIEM      | <a href= "https://github.com/JDT0wn/ActDir">SIEM Project</a>|
+| Splunk      | <a href= "https://github.com/JDT0wn/ActDir">Splunk Project</a>|
+| Wireshark      | <a href= "https://github.com/JDT0wn/ActDir">Wireshark Project</a>|
+
+
 
 
 
