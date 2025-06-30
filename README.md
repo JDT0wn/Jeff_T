@@ -19,7 +19,7 @@ My journey into computer technology has led me to develop a passion for networki
 | AD Basics Video        | <a href= "https://github.com/">Virtual AD creation</a>|
 | Active Directory Basics  (text)      | <a href= "https://github.com/JDT0wn/ActDir">AD Basics</a>|
 | Vlan Configuration Vid(packet tracer)       | <a href= "https://github.com/JDT0wn/ActDir">Network Project</a>|
-| SIEM      | <a href= "https://github.com/JDT0wn/ActDir">SIEM Project</a>|
+| Nessus Scan Vid   | <a href= "https://github.com/JDT0wn/ActDir">Nessus Scan Vid</a>|
 | Splunk      | <a href= "https://github.com/JDT0wn/ActDir">Splunk Project</a>|
 | Wireshark      | <a href= "https://github.com/JDT0wn/ActDir">Wireshark Project</a>|
 
