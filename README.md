@@ -2,7 +2,7 @@
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Hi my name is Jeffery Townsend and I am currently working towards transitioning into the IT field with the goal of becoming a network engineer and then cybersecurity professional. I have been around computers my entire life and I love to tinker with new technology as it comes along so i figured that I should get into the Industry so that i can feel like im getting paid to do the things that I have loved doing since I was a child while continuing to improve my skills.
+Hi my name is Jeffery Townsend and I am currently working towards transitioning into the IT field with the goal of becoming either a network engineer or cybersecurity professional. I have been around computers my entire life and I love to tinker with new technology as it comes along so i figured that I should get into the Industry so that i can feel like im getting paid to do the things that I have loved doing since I was a child while continuing to improve my skills.
 
 
 ## Objective
