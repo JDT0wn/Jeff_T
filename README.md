@@ -16,7 +16,7 @@ My journey into computer technology has led me to develop a passion for networki
 | Linux File Permissions lab        | <a href="https://github.com/JDT0wn/Linux-chgperm">Change Permisisons</a>|
 | SQL Database Query| <a href="https://github.com/JDT0wn/SQL-Queries/tree/main">SQL Query</a>|
 | IAM lab| <a href="https://github.com/JDT0wn/IAM">IAM Project</a>|
-| DHCP/A.D. Config Demo       | <a href= "https://github.com/JDT0wn/dhcp_ad">DHCP/AD CFG Vid</a>|
+| Domain/DHCP Lab    | <a href= "https://github.com/JDT0wn/dhcp_ad">DHCP/AD CFG Vid</a>|
 | Active Directory Basics      | <a href= "https://github.com/JDT0wn/ActDir">AD Basics Vid</a>|
 | Vlan Configuration Vid(packet tracer)       | <a href= "https://github.com/JDT0wn/Network-Project">Network-Project</a>|
 | Nessus Scan Vid   | <a href= "https://github.com/JDT0wn/Nessus-Scan">Nessus Scan Vid</a>|
