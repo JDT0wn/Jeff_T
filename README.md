@@ -1,4 +1,4 @@
-# Hello, I'm Jeffery
+# Aspiring Cybersecurity Analyst
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
@@ -6,8 +6,7 @@ My name is Jeffery Townsend, and I’m currently working on transitioning into t
 
 ## Objective
 
-My journey into computer technology has led me to develop a passion for networking and cybersecurity, and I am now eager to transition into this field, specifically looking to become a Security Analyst!
-
+My journey into computer technology has sparked a strong passion for networking and cybersecurity. I'm now actively pursuing a career transition into the IT industry, with a focused goal of becoming a Security Analyst, where I can apply my technical skills and continue to grow within the cybersecurity
 ## Labs
 
 | Lab                                          | Associated Project         |
